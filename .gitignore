@@ -1,0 +1,10 @@
+esdr-auth-*.json
+esdr-auth-*.json
+*.lock
+*.log
+*.sqlite
+.vscode
+*~
+.ipynb_checkpoints
+aggregates
+mirror
