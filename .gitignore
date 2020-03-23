@@ -2,6 +2,7 @@ esdr-auth-*.json
 esdr-auth-*.json
 *.lock
 *.log
+*.ipynb.sage-jupyter2
 *.sqlite
 .vscode
 *~
