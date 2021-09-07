@@ -1,5 +1,4 @@
 esdr-auth-*.json
-esdr-auth-*.json
 *.lock
 *.log
 *.ipynb.sage-jupyter2
@@ -10,3 +9,5 @@ esdr-auth-*.json
 aggregates
 mirror
 aggregate-purpleair
+
+*.iws
