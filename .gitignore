@@ -8,6 +8,7 @@ esdr-auth-*.json
 .ipynb_checkpoints
 aggregates
 mirror
+mirror2
 mirror-voc
 aggregate-purpleair
 
